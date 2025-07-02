@@ -9,7 +9,8 @@ This project implements a convolutional neural network to classify whether a per
 ## 📁 Dataset
 
 The dataset is too large for GitHub.  
-You can download it from [this Google Drive link]([https://drive.google.com/your-dataset-link](https://drive.google.com/file/d/1q1-Pduxn0EF1cgFUj4mRxfZSNgyFkUE_/view?usp=sharing)).
+You can download it from [this Google Drive link](https://drive.google.com/file/d/1q1-Pduxn0EF1cgFUj4mRxfZSNgyFkUE_/view?usp=sharing).
+
 
 
 The dataset consists of images categorized into two classes:
